@@ -262,9 +262,6 @@ body{
     justify-content: center;
   }
 
-  .sample{
-    background-color: #4e4e50;
-  }
 
 
   @media screen and (max-width: 560px) and (min-width:0px) {
